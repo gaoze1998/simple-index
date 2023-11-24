@@ -1,8 +1,6 @@
 package com.github.gaoze1998.datastructure;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 import java.util.List;
 
